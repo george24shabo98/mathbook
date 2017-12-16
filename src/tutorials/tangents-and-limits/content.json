@@ -1,1 +1,8 @@
-[]
+[
+    {
+        "id": "sectionBox_7yoq59nncd",
+        "contentIndex": 0,
+        "title": "What are Tangent Lines ?",
+        "text": "A tangent line is a line that <strong>shares one and only one point \\((x,y)\\)</strong> with another non-linear function.\n\nWhen we say sharing, we mean the following,\n\n$$\n\\text{Given any two functions, $f(x)$ and $g(x)$, we say that $f(x)$ and $g(x)$ share a given point $(p,q)$ if and only if $f(p) = g(p) = q$} \n$$\n\nIn regards to finding the equation of a tangent line, we are usually given a non-linear function \\(f(x)\\) and a point \\((p,q)\\) and we are asked to find \\(g(x)\\) which is the function of the tangent line.\n\nIf you are wondering what tangent lines are used for, that's a great question and a good place to start. \n\nTangent lines help us find the rate of change at a specific point for a curve. A real world example of this would be dropping a ball or some sort of object from the top of a building and calculating its velocity at a certain point during its descent."
+    }
+]
