@@ -1,1 +1,14 @@
-{}
+{
+    "subject": "Calculus",
+    "title": "Tangent Lines and Limits",
+    "openingStatement": "A tangent line is a line that 'touches' a point of another function (usually a curve). In other words, a tangent line is a linear function that <strong>shares one and only one point</strong> with another non-linear function.\n\nIn order to help us find the equation (linear function) of a tangent line, we can make use of what are known as Limits. We will go into more depth into what exactly is a limit later in this tutorial.",
+    "preReqs": [
+        {
+            "title": "Secant Lines",
+            "url": "https://en.wikipedia.org/wiki/Secant_line"
+        }
+    ],
+    "exerciseStatement": "",
+    "resources": [],
+    "keywords": []
+}
