@@ -8,7 +8,13 @@
             "url": "https://en.wikipedia.org/wiki/Secant_line"
         }
     ],
-    "exerciseStatement": "",
+    "exerciseStatement": "Find the equation of the tangent line at the specified point for the following curves.",
     "resources": [],
-    "keywords": []
+    "keywords": [
+        "calculus",
+        "tangents",
+        "secants",
+        "limits",
+        "math"
+    ]
 }
