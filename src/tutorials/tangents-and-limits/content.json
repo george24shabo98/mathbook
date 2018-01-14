@@ -35,5 +35,36 @@
                 "options": {}
             }
         ]
+    },
+    {
+        "id": "sectionBox_kpp643fw9b",
+        "contentIndex": 2,
+        "title": "asdffff",
+        "text": "fffsdsadqwe\n <div id=\"ckwjhj9jbc\" class=\"ct-chart\">",
+        "charts": [
+            {
+                "id": "ckwjhj9jbc",
+                "data": {
+                    "labels": [
+                        "Mon",
+                        "Tue",
+                        "Wed",
+                        "Thu",
+                        "Fri"
+                    ],
+                    "series": [
+                        [
+                            5,
+                            4,
+                            3,
+                            7,
+                            5,
+                            10
+                        ]
+                    ]
+                },
+                "options": {}
+            }
+        ]
     }
 ]
