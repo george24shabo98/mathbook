@@ -4,36 +4,5 @@
         "contentIndex": 0,
         "title": "What are Tangent Lines ?",
         "text": "Tangent lines help us find the slope of a curve at a specific point. As you move along a curve, the slope of that curve changes, so by finding the tangent line for a specific point on a curve, all we have to do is find the slope of that tangent line and we will know what the slope of the curve is at that specific point. Pretty clever right? \n\nSo now you are probably wondering what is the point of finding the slope of the curve at a specific point, and the answer to that is simple, because by finding the slope of the curve at a specific point, <strong>we are finding the rate at which the curve is changing at that point</strong>, also known as the <i>Instantaneous Rate of Change</i>.\n\nNow, if we know the rate at which the curve is changing at single point, we can figure out things like the velocity of a car that is accelerating on a highway o at a certain point in time, or "
-    },
-    {
-        "id": "sectionBox_fgetryirgi",
-        "contentIndex": 1,
-        "title": "Welcome",
-        "text": "this is a chart.\n <div id=\"axr6xtm96w\" class=\"ct-chart ct-square\"></div>\nasdlskajsdalkjdklajd\n\n\nasdasdasd",
-        "charts": [
-            {
-                "id": "axr6xtm96w",
-                "data": {
-                    "labels": [
-                        "Mon",
-                        "Tue",
-                        "Wed",
-                        "Thu",
-                        "Fri"
-                    ],
-                    "series": [
-                        [
-                            5,
-                            4,
-                            3,
-                            7,
-                            5,
-                            10
-                        ]
-                    ]
-                },
-                "options": {}
-            }
-        ]
     }
 ]
