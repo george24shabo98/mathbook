@@ -6,84 +6,50 @@
         "text": "Tangent lines help us find the slope of a curve at a specific point. As you move along a curve, the slope of that curve changes, so by finding the tangent line for a specific point on a curve, all we have to do is find the slope of that tangent line and we will know what the slope of the curve is at that specific point. Pretty clever right? \n\nSo now you are probably wondering what is the point of finding the slope of the curve at a specific point, and the answer to that is simple, because by finding the slope of the curve at a specific point, <strong>we are finding the rate at which the curve is changing at that point</strong>, also known as the <i>Instantaneous Rate of Change</i>.\n\nNow, if we know the rate at which the curve is changing at single point, we can figure out things like the velocity of a car that is accelerating on a highway o at a certain point in time, or "
     },
     {
-        "id": "sectionBox_85g0nzdwf9",
+        "id": "sectionBox_d99glud6ny",
         "contentIndex": 1,
-        "title": "Charts",
-        "text": " <div id=\"p3fgd2cw9v\" class=\"ct-chart \"></div> <div id=\"dcrbkrmis8\" class=\"ct-chart \"></div> <div id=\"omkbkokg4j\" class=\"ct-chart \"></div>",
+        "title": "my fancy chart",
+        "text": " <div id=\"4d1vj5tco8\" class=\"ct-chart \"></div>",
         "charts": [
             {
-                "id": "p3fgd2cw9v",
+                "id": "4d1vj5tco8",
                 "data": {
                     "labels": [
-                        "1",
-                        "2",
-                        "3",
-                        "4"
+                        "Monday",
+                        "Tuesday",
+                        "Wednesday",
+                        "Thursday",
+                        "Friday",
+                        "Saturday",
+                        "Sunday"
                     ],
                     "series": [
                         [
                             "1",
-                            "2",
-                            "3",
-                            "4"
-                        ]
-                    ]
-                },
-                "options": {}
-            },
-            {
-                "id": "dcrbkrmis8",
-                "data": {
-                    "labels": [
-                        "1",
-                        "2",
-                        "3",
-                        "4"
-                    ],
-                    "series": [
-                        [
-                            "1",
-                            "2",
-                            "3",
-                            "4"
-                        ],
-                        [
-                            "2",
-                            "3",
-                            "4",
-                            "5"
-                        ]
-                    ]
-                },
-                "options": {}
-            },
-            {
-                "id": "omkbkokg4j",
-                "data": {
-                    "labels": [
-                        "1",
-                        "2",
-                        "3",
-                        "4"
-                    ],
-                    "series": [
-                        [
-                            "1",
-                            "2",
-                            "3",
-                            "4"
-                        ],
-                        [
-                            "2",
-                            "3",
-                            "4",
+                            "-2",
+                            "5",
+                            "0",
+                            "5",
+                            "-2",
                             "5"
                         ],
                         [
+                            "0",
                             "2",
                             "4",
+                            "5",
+                            "0",
                             "6",
-                            "8"
+                            "9"
+                        ],
+                        [
+                            "-2",
+                            "4",
+                            "5",
+                            "7",
+                            "0",
+                            "4",
+                            "7"
                         ]
                     ]
                 },
