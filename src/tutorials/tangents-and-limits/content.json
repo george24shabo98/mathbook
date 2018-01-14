@@ -9,7 +9,7 @@
         "id": "sectionBox_1cbip50ry7",
         "contentIndex": 1,
         "title": "Chart",
-        "text": " asdasdasdasd<div id=\"7ah3s1snq3\" class=\"ct-chart\">",
+        "text": " asdasdasdasd<div id=\"7ah3s1snq3\" class=\"ct-chart\"> fsdfsdfds\n\nHello World",
         "charts": [
             {
                 "id": "7ah3s1snq3",
@@ -40,7 +40,7 @@
         "id": "sectionBox_kpp643fw9b",
         "contentIndex": 2,
         "title": "asdffff",
-        "text": "fffsdsadqwe\n <div id=\"ckwjhj9jbc\" class=\"ct-chart\">",
+        "text": "fffsdsadqwe\n <div id=\"ckwjhj9jbc\" class=\"ct-chart\">\n\n123321321321123223221321321321321321321321321321",
         "charts": [
             {
                 "id": "ckwjhj9jbc",
