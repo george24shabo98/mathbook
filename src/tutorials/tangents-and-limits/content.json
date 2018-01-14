@@ -66,5 +66,36 @@
                 "options": {}
             }
         ]
+    },
+    {
+        "id": "sectionBox_mw8o9pe4qk",
+        "contentIndex": 3,
+        "title": "perfect square",
+        "text": "asdasd <div id=\"ppcb3uu296\" class=\"ct-chart ct-square\">",
+        "charts": [
+            {
+                "id": "ppcb3uu296",
+                "data": {
+                    "labels": [
+                        "Mon",
+                        "Tue",
+                        "Wed",
+                        "Thu",
+                        "Fri"
+                    ],
+                    "series": [
+                        [
+                            5,
+                            4,
+                            3,
+                            7,
+                            5,
+                            10
+                        ]
+                    ]
+                },
+                "options": {}
+            }
+        ]
     }
 ]
