@@ -5,5 +5,46 @@
         "answer": "\\( x = \\sqrt{y}\\)",
         "exerciseIndex": 0,
         "chartList": []
+    },
+    {
+        "id": "exerciseBox_yxwgjs8av7",
+        "question": " <div id=\"bkqqn0p1j0\" class=\"ct-chart ct-double-octave\"></div>",
+        "answer": "great answer",
+        "exerciseIndex": 1,
+        "chartList": [
+            {
+                "id": "bkqqn0p1j0",
+                "data": {
+                    "labels": [],
+                    "series": [
+                        [
+                            {
+                                "x": "1",
+                                "y": "2"
+                            },
+                            {
+                                "x": "2",
+                                "y": "3"
+                            },
+                            {
+                                "x": "3",
+                                "y": "4"
+                            }
+                        ]
+                    ]
+                },
+                "options": {
+                    "axisX": {
+                        "onlyInteger": true
+                    },
+                    "axisY": {
+                        "onlyInteger": true
+                    },
+                    "showPoint": false,
+                    "showLine": true,
+                    "showArea": true
+                }
+            }
+        ]
     }
 ]
