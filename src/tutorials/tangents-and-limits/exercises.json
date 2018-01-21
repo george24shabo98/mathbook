@@ -39,5 +39,44 @@
         "answer": "\\( x = \\sqrt{y}\\)",
         "exerciseIndex": 1,
         "chartList": []
+    },
+    {
+        "id": "exerciseBox_o6lshy55yb",
+        "question": "What is the chart ?",
+        "answer": " <div id=\"prnxr3hq54\" class=\"ct-chart \"></div>",
+        "exerciseIndex": 2,
+        "chartList": [
+            {
+                "id": "prnxr3hq54",
+                "data": {
+                    "labels": [
+                        "1",
+                        "2",
+                        "3",
+                        "4",
+                        "5"
+                    ],
+                    "series": [
+                        [
+                            "1",
+                            "2",
+                            "3",
+                            "4"
+                        ],
+                        [
+                            "2",
+                            "4",
+                            "6",
+                            "8"
+                        ]
+                    ]
+                },
+                "options": {
+                    "showPoint": false,
+                    "showLine": true,
+                    "showArea": false
+                }
+            }
+        ]
     }
 ]
