@@ -32,5 +32,12 @@
                 }
             }
         ]
+    },
+    {
+        "id": "exerciseBox_0ucthwrri1",
+        "question": "\\( y = x^2 \\)",
+        "answer": "\\( x = \\sqrt{y}\\)",
+        "exerciseIndex": 1,
+        "chartList": []
     }
 ]
