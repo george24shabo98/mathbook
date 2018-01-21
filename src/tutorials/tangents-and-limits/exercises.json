@@ -43,7 +43,7 @@
     {
         "id": "exerciseBox_o6lshy55yb",
         "question": "What is the chart ?  <div id=\"prnxr3hq54\" class=\"ct-chart \"></div> dasd",
-        "answer": " <div id=\"prnxr3hq54\" class=\"ct-chart \"></div>",
+        "answer": "<div id=\"2n3dbjhq58\" class=\"ct-chart \"></div>",
         "exerciseIndex": 2,
         "chartList": [
             {
@@ -73,6 +73,33 @@
                 },
                 "options": {
                     "showPoint": false,
+                    "showLine": true,
+                    "showArea": false
+                }
+            },
+            {
+                "id": "2n3dbjhq58",
+                "data": {
+                    "labels": [
+                        "1",
+                        "2",
+                        "3",
+                        "4",
+                        "5"
+                    ],
+                    "series": [
+                        [
+                            "1",
+                            "2",
+                            "3",
+                            "4",
+                            "5",
+                            "56"
+                        ]
+                    ]
+                },
+                "options": {
+                    "showPoint": true,
                     "showLine": true,
                     "showArea": false
                 }
