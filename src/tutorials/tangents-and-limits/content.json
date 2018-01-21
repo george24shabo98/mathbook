@@ -9,7 +9,7 @@
         "id": "sectionBox_d99glud6ny",
         "contentIndex": 1,
         "title": "my fancy chart",
-        "text": " <div id=\"4d1vj5tco8\" class=\"ct-chart \"></div>",
+        "text": " <div id=\"4d1vj5tco8\" class=\"ct-chart \"></div> <div id=\"z1zahfb1nz\" class=\"ct-chart \"></div>",
         "charts": [
             {
                 "id": "4d1vj5tco8",
@@ -54,6 +54,32 @@
                     ]
                 },
                 "options": {}
+            },
+            {
+                "id": "z1zahfb1nz",
+                "data": {
+                    "labels": [
+                        "1",
+                        "2",
+                        "3",
+                        "4",
+                        "5"
+                    ],
+                    "series": [
+                        [
+                            "1",
+                            "2",
+                            "3",
+                            "4",
+                            "54"
+                        ]
+                    ]
+                },
+                "options": {
+                    "showPoint": false,
+                    "showLine": true,
+                    "showArea": true
+                }
             }
         ]
     }
