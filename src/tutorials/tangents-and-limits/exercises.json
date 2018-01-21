@@ -1,1 +1,36 @@
-[]
+[
+    {
+        "id": "exerciseBox_sxgs0a9ak5",
+        "question": " <div id=\"b128syw4jd\" class=\"ct-chart \"></div>",
+        "answer": "this is the answer",
+        "exerciseIndex": 0,
+        "chartList": [
+            {
+                "id": "b128syw4jd",
+                "data": {
+                    "labels": [
+                        "1",
+                        "2",
+                        "3",
+                        "4",
+                        "5"
+                    ],
+                    "series": [
+                        [
+                            "1",
+                            "2",
+                            "3",
+                            "4",
+                            "5"
+                        ]
+                    ]
+                },
+                "options": {
+                    "showPoint": false,
+                    "showLine": true,
+                    "showArea": true
+                }
+            }
+        ]
+    }
+]
