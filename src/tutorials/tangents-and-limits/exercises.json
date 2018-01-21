@@ -9,7 +9,7 @@
     {
         "id": "exerciseBox_yxwgjs8av7",
         "question": " <div id=\"bkqqn0p1j0\" class=\"ct-chart ct-double-octave\"></div>",
-        "answer": "great answer",
+        "answer": "great answer\n<div id=\"rymif5530j\" class=\"ct-chart ct-double-octave\"></div>",
         "exerciseIndex": 1,
         "chartList": [
             {
@@ -43,6 +43,63 @@
                     "showPoint": false,
                     "showLine": true,
                     "showArea": true
+                }
+            },
+            {
+                "id": "rymif5530j",
+                "data": {
+                    "labels": [],
+                    "series": [
+                        [
+                            {
+                                "x": "0",
+                                "y": "99"
+                            },
+                            {
+                                "x": "1",
+                                "y": "98"
+                            },
+                            {
+                                "x": "2",
+                                "y": "97"
+                            },
+                            {
+                                "x": "3",
+                                "y": "95"
+                            }
+                        ],
+                        [
+                            {
+                                "x": "0",
+                                "y": "100"
+                            },
+                            {
+                                "x": "1",
+                                "y": "90"
+                            },
+                            {
+                                "x": "2",
+                                "y": "80"
+                            },
+                            {
+                                "x": "3",
+                                "y": "70"
+                            }
+                        ]
+                    ]
+                },
+                "options": {
+                    "axisX": {
+                        "high": "5",
+                        "onlyInteger": true
+                    },
+                    "axisY": {
+                        "low": "0",
+                        "onlyInteger": true
+                    },
+                    "showPoint": true,
+                    "showLine": true,
+                    "showArea": false
                 }
             }
         ]
