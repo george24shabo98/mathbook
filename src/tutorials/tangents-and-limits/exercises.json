@@ -42,7 +42,7 @@
     },
     {
         "id": "exerciseBox_o6lshy55yb",
-        "question": "What is the chart ?",
+        "question": "What is the chart ?  <div id=\"prnxr3hq54\" class=\"ct-chart \"></div> dasd",
         "answer": " <div id=\"prnxr3hq54\" class=\"ct-chart \"></div>",
         "exerciseIndex": 2,
         "chartList": [
