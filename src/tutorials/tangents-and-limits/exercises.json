@@ -9,7 +9,7 @@
     {
         "id": "exerciseBox_yxwgjs8av7",
         "question": " <div id=\"bkqqn0p1j0\" class=\"ct-chart ct-double-octave\"></div>",
-        "answer": "great answer\n<div id=\"rymif5530j\" class=\"ct-chart ct-double-octave\"></div>",
+        "answer": "great answer\n<div id=\"rymif5530j\" class=\"ct-chart ct-double-octave\"></div>\n\n<div id=\"wngihrl7p3\" class=\"ct-chart ct-double-octave\"></div>",
         "exerciseIndex": 1,
         "chartList": [
             {
@@ -100,6 +100,39 @@
                     "showPoint": true,
                     "showLine": true,
                     "showArea": false
+                }
+            },
+            {
+                "id": "wngihrl7p3",
+                "data": {
+                    "labels": [],
+                    "series": [
+                        [
+                            {
+                                "x": "6",
+                                "y": "7"
+                            },
+                            {
+                                "x": "7",
+                                "y": "8"
+                            },
+                            {
+                                "x": "8",
+                                "y": "9"
+                            }
+                        ]
+                    ]
+                },
+                "options": {
+                    "axisX": {
+                        "onlyInteger": true
+                    },
+                    "axisY": {
+                        "onlyInteger": true
+                    },
+                    "showPoint": true,
+                    "showLine": true,
+                    "showArea": true
                 }
             }
         ]
