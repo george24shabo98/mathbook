@@ -136,5 +136,52 @@
                 }
             }
         ]
+    },
+    {
+        "id": "exerciseBox_h0x7o9z6s8",
+        "question": " <div id=\"jdxw72iypo\" class=\"ct-chart ct-double-octave\"></div>",
+        "answer": "the answer!",
+        "exerciseIndex": 2,
+        "chartList": [
+            {
+                "id": "jdxw72iypo",
+                "data": {
+                    "series": [
+                        [
+                            {
+                                "x": "1",
+                                "y": "2"
+                            },
+                            {
+                                "x": "2",
+                                "y": "3"
+                            },
+                            {
+                                "x": "3",
+                                "y": "4"
+                            },
+                            {
+                                "x": "4",
+                                "y": "5"
+                            }
+                        ]
+                    ],
+                    "labels": []
+                },
+                "options": {
+                    "axisX": {
+                        "high": "10",
+                        "low": "0",
+                        "onlyInteger": true
+                    },
+                    "axisY": {
+                        "onlyInteger": true
+                    },
+                    "showPoint": true,
+                    "showLine": false,
+                    "showArea": true
+                }
+            }
+        ]
     }
 ]
