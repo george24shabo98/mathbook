@@ -6,7 +6,7 @@
     "start": "node ./bin/www",
     "serve": "nodemon ./bin/www",
     "precommit": "lint-staged",
-    "postinstall": "node ./bin/createLogFile",
+    "postinstall": "node ./bin/createLogFile && gulp bundle:js && bundle:css",
     "test": "ava",
     "snyk-protect": "snyk protect",
     "prepare": "npm run snyk-protect"
